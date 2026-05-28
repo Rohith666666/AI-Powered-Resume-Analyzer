@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+spacy
+pdfplumber
+python-multipart
+# Note: You must also install the spaCy model via: python -m spacy download en_core_web_sm
